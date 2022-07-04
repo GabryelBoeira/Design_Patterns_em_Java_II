@@ -2,9 +2,8 @@ package br.com.alura.loja.desconto;
 
 import java.math.BigDecimal;
 
-import br.com.alura.loja.desconto.CalculadoraDeDescontos;
-import br.com.alura.loja.orcamento.Orcamento;
-import br.com.alura.loja.orcamento.item.ItemOrcamento;
+import br.com.alura.loja.orcamento.orcavel.Orcamento;
+import br.com.alura.loja.orcamento.orcavel.ItemOrcamento;
 
 public class TestesDescontos {
 

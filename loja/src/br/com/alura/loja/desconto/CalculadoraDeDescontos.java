@@ -6,7 +6,7 @@ import br.com.alura.loja.desconto.tipo.Desconto;
 import br.com.alura.loja.desconto.tipo.DescontoParaOrcamentoComMaisDeCincoItens;
 import br.com.alura.loja.desconto.tipo.DescontoParaOrcamentoComValorMaiorQueQuinhentos;
 import br.com.alura.loja.desconto.tipo.SemDesconto;
-import br.com.alura.loja.orcamento.Orcamento;
+import br.com.alura.loja.orcamento.orcavel.Orcamento;
 
 public class CalculadoraDeDescontos {
 	

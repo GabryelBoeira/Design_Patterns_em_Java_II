@@ -1,8 +1,8 @@
 package br.com.alura.loja.adapter;
 
-import br.com.alura.loja.orcamento.Orcamento;
-import br.com.alura.loja.orcamento.RegistroDeOrcamento;
-import br.com.alura.loja.orcamento.item.ItemOrcamento;
+import br.com.alura.loja.orcamento.orcavel.Orcamento;
+import br.com.alura.loja.orcamento.service.RegistroDeOrcamento;
+import br.com.alura.loja.orcamento.orcavel.ItemOrcamento;
 
 import java.math.BigDecimal;
 

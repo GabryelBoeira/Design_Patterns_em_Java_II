@@ -3,8 +3,8 @@ package br.com.alura.loja.pedido;
 import java.time.LocalDateTime;
 import java.util.List;
 
-import br.com.alura.loja.orcamento.Orcamento;
-import br.com.alura.loja.orcamento.item.ItemOrcamento;
+import br.com.alura.loja.orcamento.orcavel.Orcamento;
+import br.com.alura.loja.orcamento.orcavel.ItemOrcamento;
 import br.com.alura.loja.pedido.acoes.AcaoAposGerarPedido;
 
 public class GeraPedidoHandler {

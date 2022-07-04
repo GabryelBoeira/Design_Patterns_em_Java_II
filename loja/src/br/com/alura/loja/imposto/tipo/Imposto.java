@@ -2,7 +2,7 @@ package br.com.alura.loja.imposto.tipo;
 
 import java.math.BigDecimal;
 
-import br.com.alura.loja.orcamento.Orcamento;
+import br.com.alura.loja.orcamento.orcavel.Orcamento;
 
 public abstract class Imposto {
 

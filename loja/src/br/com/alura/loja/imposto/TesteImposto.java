@@ -3,8 +3,8 @@ package br.com.alura.loja.imposto;
 import br.com.alura.loja.imposto.tipo.ICMS;
 import br.com.alura.loja.imposto.tipo.IPI;
 import br.com.alura.loja.imposto.tipo.ISS;
-import br.com.alura.loja.orcamento.Orcamento;
-import br.com.alura.loja.orcamento.item.ItemOrcamento;
+import br.com.alura.loja.orcamento.orcavel.Orcamento;
+import br.com.alura.loja.orcamento.orcavel.ItemOrcamento;
 
 import java.math.BigDecimal;
 
