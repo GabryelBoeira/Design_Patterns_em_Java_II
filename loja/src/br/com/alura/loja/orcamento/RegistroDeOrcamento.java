@@ -7,7 +7,7 @@ import java.util.Map;
 
 public class RegistroDeOrcamento {
 
-    private HttpAdapter httpAdapter;
+    private final HttpAdapter httpAdapter;
 
     public RegistroDeOrcamento(HttpAdapter httpAdapter) {
         this.httpAdapter = httpAdapter;
@@ -21,7 +21,7 @@ public class RegistroDeOrcamento {
         String url = "htpp://api.externa/orcamento";
         Map<String, Object> dados = Map.of(
                 "valor",orcamento.getValor(),
-                "qtde_itens", orcamento.getQuantidadeItens());
+                "itens", orcamento.getItens());
 
         httpAdapter.post(url, dados);
     }

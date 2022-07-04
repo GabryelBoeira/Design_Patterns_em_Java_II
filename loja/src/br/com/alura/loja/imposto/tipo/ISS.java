@@ -1,6 +1,5 @@
 package br.com.alura.loja.imposto.tipo;
 
-import br.com.alura.loja.imposto.Imposto;
 import br.com.alura.loja.orcamento.Orcamento;
 
 import java.math.BigDecimal;

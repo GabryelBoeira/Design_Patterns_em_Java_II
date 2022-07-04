@@ -1,4 +1,4 @@
-package br.com.alura.loja.imposto;
+package br.com.alura.loja.imposto.tipo;
 
 import java.math.BigDecimal;
 
