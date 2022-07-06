@@ -22,7 +22,13 @@ public class Orcamento implements Orcavel{
 	}
 
 	public BigDecimal getValor() {
-		return valor;
+		//Simular lentidao do sistema
+		try {
+			Thread.sleep(2000);
+		}catch (InterruptedException e) {
+			throw new RuntimeException(e);
+		}
+		return this.valor;
 	}
 
 	public void setValor(BigDecimal valor) {
