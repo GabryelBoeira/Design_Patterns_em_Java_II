@@ -7,3 +7,7 @@
 - Simplifique a interface de uso de uma classe com o pattern Facade
 - Aprenda a compor comportamentos com o pattern Composite 
 - Utilize o pattern Proxy para implementar um mecanismo de cache
+
+[Certificado de conclusão do curso](https://cursos.alura.com.br/certificate/bf7240e4-4aeb-4e0b-b37e-770e9289cc4c)
+
+**_ Curso Concluido _**
